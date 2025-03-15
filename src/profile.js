@@ -51,31 +51,32 @@ const skillsBar = [
     // svg: '',
     faClass: "fab fa-node",
   },
-  {
-    name: "Python",
-    // svg: '',
-    faClass: "fab fa-python",
-  },
+  
+  // {
+  //   name: "Python",
+  //   // svg: '',
+  //   faClass: "fab fa-python",
+  // },
   {
     name: "Java",
     // svg: '',
     faClass: "fab fa-java",
   },
-  {
-    name: "PHP",
-    // svg: '',
-    faClass: "fab fa-php",
-  },
+  // {
+  //   name: "PHP",
+  //   // svg: '',
+  //   faClass: "fab fa-php",
+  // },
   {
     name: "Database",
     // svg: '',
     faClass: "fas fa-database",
   },
-  {
-    name: "AWS",
-    // svg: '',
-    faClass: "fab fa-aws",
-  },
+  // {
+  //   name: "AWS",
+  //   // svg: '',
+  //   faClass: "fab fa-aws",
+  // },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
@@ -85,45 +86,45 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
+    name: "Female Apparel Website",
+    skills: ["React Js, Tailwind CSS"],
     url: "https://github.com/Rookie768/female_apparel",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/Rookie768/female_apparel",
+    name: "Todo List",
+    skills: ["React JS, Tailwind CSS, Firebase"],
+    url: "https://github.com/Rookie768/reactify-todo-list",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/Rookie768/female_apparel",
+    name: "Rain Drop Animation",
+    skills: ["React JS, CSS"],
+    url: "https://github.com/Rookie768/rain-drop-project",
   },
-  {
-    // Add image in './styles/images.css' in #project4
-    id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/Rookie768/female_apparel",
-  },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/Rookie768/female_apparel",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/Rookie768/female_apparel",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #project4
+  //   id: "project4",
+  //   name: "Project 4",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/Rookie768/female_apparel",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #project5
+  //   id: "project5",
+  //   name: "Project 5",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/Rookie768/female_apparel",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #project6
+  //   id: "project6",
+  //   name: "Project 6",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/Rookie768/female_apparel",
+  // },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
@@ -133,20 +134,20 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/Rookie768",
+    name: "Ticket Book Application",
+    url: "https://github.com/Rookie768/ticket-book",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Miscellaneous 2",
-    url: "https://github.com/Rookie768",
+    url: "/",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Miscellaneous 3",
-    url: "https://github.com/Rookie768",
+    url: "/",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -157,7 +158,7 @@ const contact = {
   pitch:
     "Final year student at National Institute of Technology Patna",
   copyright: "Achyut Singh",
-  contactUrl: "",
+  contactUrl: "8765688036",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
@@ -167,7 +168,7 @@ const social = {
   // twitter: "https://twitter.com",
   instagram: "https://www.instagram.com/thetalllllguy/",
   linkedin: "https://www.linkedin.com/in/achyut-singh-4b01681a7/",
-  resume: "https://drive.google.com/file/d/1Pn5LlzYMYm2BOr6lJ9ttdmjWOhb8Tg76/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1Ieccyp1M9HKFklFIATVK1kZunkU_9ZN6/view?usp=drivesdk",
 };
 // Dont change anything here
 export {
